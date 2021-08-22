@@ -7,6 +7,7 @@ score = 0
 
 # window screen
 wn = turtle.Screen()
+wn.title("Snake Game")
 wn.bgcolor("light green")
 wn.setup(width=800, height=600)
 wn.tracer(0)
